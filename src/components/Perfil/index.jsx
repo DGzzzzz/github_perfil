@@ -8,6 +8,7 @@ const Perfil = ({ nomeUsuario }) => {
                 {nomeUsuario}
             </h1>
         </header>
+        
     )
 }
 

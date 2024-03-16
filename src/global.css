@@ -15,3 +15,13 @@
     --corPrincipal: #ffc048;
     --corSecundaria: #111;
 }
+
+input {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    margin-bottom: 12px;
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+}
